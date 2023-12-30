@@ -1,0 +1,24 @@
+- Bài 0. Viết chương trình tính tổng các số tự nhiên từ 1 tới n.
+- Bài 1. Viết chương trình hỏi người dùng nhập vào một số nguyên khác 0. In ra màn hình số nguyên đó là số chẵn hay lẻ.
+- Bài 2. Viết chương trình in ra tất cả các số nguyên dương lẻ <= 20 trừ số nhập vào.
+- Bài 3. Viết chương trình tìm số lớn nhất trong ba số thực a, b, c.
+- Bài 4. Viết chương trình kiểm tra xem hai số thực a b cho trước có cùng dấu hay không.
+- Bài 5. Viết chương trình in ra cách đọc của một số nguyên n cho trước có ba chữ số. Ví dụ với n=102 thì kết quả in ra màn hình - là Một trăm lẻ hai.
+- Bài 6. Viết chương trình tìm tất cả các số chia hết cho 7 nhưng không phải bội số của 5, nằm trong đoạn a và b. Các số thu được - sẽ được in thành chuỗi trên một dòng, cách nhau bằng dấu phẩy.
+- Bài 7.Viết chương trình in bảng cửu chương ra màn hình.
+- Bài 8. Viết một chương trình tính giai thừa của một số nguyên dương n nhập từ bàn phím và n<=20. (Dùng đệ quy và cách thông - thường).
+- Bài 9. Viết chương trình kiểm tra một số nguyên dương n có phải là số nguyên tố hay không.
+- Bài 10. Viết chương trình liệt kê n số nguyên tố đầu tiên. Số nguyên dương n được nhập từ bàn phím.
+- Bài 19. Tìm số nguyên dương n nhỏ nhất sao cho 1 + 2 + … + n > 10000.
+- Bài 11. Viết chương trình liệt kê n số hạng đầu tiên của dãy Fibonacci không sử dụng hàm. Dùng đệ quy và dùng hàm.
+- Bài 12. Viết chương trình tính tổng các giá trị lẻ nguyên dương nhỏ hơn số nguyên dương n cho trước.
+- Bài 13. Viết chương trình tìm số nguyên dương x lớn nhất sao cho 1 + 2 + 3 + … + x < n.
+- Bài 14. Viết chương trình phân tích số nguyên n thành các thừa số nguyên tố. Ví dụ: 30 = 2*3*5.
+- Bài 15. Liệt kê tất cả ước số của số nguyên dương n.
+- Bài 16. Tính tổng tất cả ước số của số nguyên dương n.
+- Bài 17. Tính tích tất cả ước số của số nguyên dương n.
+- Bài 18. Giải phương trình bậc nhất: ax + b = 0.
+- Bài 19. Giải phương trình bậc hai: ax^2 + bx + c = 0.
+- Bài 20. Giải phương trình bậc ba: ax^3 + bx^2 + cx + d = 0.
+- Bài 21. Giải phương trình trùng phương: ax^4 + bx^2 + c = 0.
+- Bài 22. Tìm tất cả các phương án có thể để có tổng là 10,000đ từ các tờ tiền 1,000đ, 2,000đ, 5,000đ. Dùng List và cách thông thường.
